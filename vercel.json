@@ -12,10 +12,5 @@
       "dest": "src/main.ts"
     }
   ],
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "https://github.com/NaiHeeeee/github-readme-activity-graph"
-    }
-  ]
+
 }
