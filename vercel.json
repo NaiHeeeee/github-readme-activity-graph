@@ -11,7 +11,7 @@
       "src": "/(.*)",
       "dest": "src/main.ts"
     }
-  ]
+  ],
   "redirects": [
     {
       "source": "/",
